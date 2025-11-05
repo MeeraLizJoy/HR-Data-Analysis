@@ -21,7 +21,7 @@ This project analyzes employee attrition using HR data and applies advanced mach
 
 ## Dataset
 
-- **Source:** IBM HR Analytics Employee Attrition & Performance Dataset (Kaggle)
+- **Source:** HR Analytics (Kaggle)
 - **Samples/Features:** ~1500 employees, 40+ features (demographics, compensation, role, satisfaction, performance, etc.)
 - **Target Variable:** Attrition (`Yes` or `No`)
 
