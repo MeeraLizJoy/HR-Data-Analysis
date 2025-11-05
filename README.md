@@ -1,6 +1,3 @@
-***
-
-```markdown
 # HR Attrition Analysis
 
 Predicting and Understanding Employee Attrition with EDA, Machine Learning & Business Insights
@@ -113,5 +110,3 @@ models/                # Saved trained model objects
 ## Author
 
 - Meera Liz Joy
-
-```
